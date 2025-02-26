@@ -7,7 +7,7 @@ lalu mencetak pola segitiga angka menurun dengan n baris.
 int Bilangan_Awal(int jumlah_baris);
 struct data
 {
-    int Bilangan = 0;
+    int Bilangan;
 };
 
 void BilanganAwal(int& jumlah_baris,data& angka){
